@@ -1,0 +1,418 @@
+Abbeville
+Aiken
+Alcolu
+Allendale
+Anderson
+Andrews
+Arcadia Lakes
+Arcadia
+Arial
+Ashwood
+Atlantic Beach
+Awendaw
+Aynor
+Bamberg
+Barnwell
+Batesburg-Leesville
+Bear Swamp
+Beaufort
+Beech Island
+Belton
+Belvedere
+Bennettsville
+Berea
+Bethune
+Bishopville
+Blacksburg
+Blackville
+Bluffton
+Blythewood
+Boiling Springs
+Bonneau Beach
+Bonneau
+Bowman
+Boykin
+Branchville
+Briarcliffe Acres
+Brittons Neck
+Brookdale
+Brunson
+Brushy Creek
+Bucksport
+Buffalo
+Burnettown
+Burton
+Cades
+Calhoun Falls
+Camden
+Cameron
+Camp Ground
+Campobello
+Cane Savannah
+Carlisle
+Catawba
+Cayce
+Centenary
+Centerville
+Central Pacolet
+Central
+Chapin
+Chappells
+Charleston
+Cheraw
+Cherryvale
+Chesnee
+Chesterfield
+Chester
+City View
+Clarks Hill
+Clearwater
+Clemson
+Clifton
+Clinton
+Clio
+Clover
+Cokesbury
+Columbia
+Converse
+Conway
+Cordesville
+Cottageville
+Coward
+Cowpens
+Cross Hill
+Cross Keys
+Cross
+Dalzell
+Danwood
+Darlington
+Denmark
+Dentsville
+Dillon
+Donalds
+Due West
+Duncan
+Dunean
+Dutch Fork
+Easley
+East Gaffney
+East Sumter
+Eastover
+Edgefield
+Edisto Beach
+Edisto Island
+Edisto-Shaws
+Edisto
+Ehrhardt
+Elgin
+Elloree
+Enoree
+Estill
+Eureka Mill
+Eutawville
+Fair Play
+Fairfax
+Fairforest
+Fairmont Mills
+Fingerville
+Five Forks
+Florence
+Floyds
+Folly Beach
+Forest Acres
+Forestbrook
+Forest
+Fork
+Fort Lawn
+Fort Mill
+Fort Motte-Lone Star
+Fountain Inn
+Furman
+Gadsden
+Gaffney
+Gantt
+Garden City
+Gaston
+Gayle Mill
+Georgetown
+Gifford
+Gilbert
+Glendale
+Gloverville
+Golden Grove
+Goose Creek
+Gramling
+Graniteville
+Gray Court
+Grays-Tillman
+Great Falls
+Greeleyville
+Green Pond
+Greenville
+Greenwood
+Greer
+Hamer
+Hampton
+Hanahan
+Hardeeville
+Harleyville
+Hartsville
+Heath Springs
+Hemingway
+Hendersonville
+Hickory Grove
+Highland
+Hilda
+Hilton Head Island
+Holly Hill
+Hollywood
+Homeland Park
+Honea Path
+Hopkins
+Horrell Hill
+India Hook
+Indian
+Inman Mills
+Inman
+Irmo
+Irwin
+Isle of Palms
+Iva
+Jacksonboro
+Jackson
+James Island
+Jefferson
+Joanna
+Johns Island
+Johnsonville
+Johnston
+Jonesville
+Judson
+Kershaw
+Kiawah Island
+Kingstree
+Kirksey
+Ladson
+Lake City
+Lake Murray of Richland
+Lake Secession
+Lake Swamp
+Lake View
+Lake Wylie
+Lakewood
+Lamar
+Lancaster Mill
+Lancaster
+Landrum
+Landsford
+Lane
+Langley
+Latta
+Laurel Bay
+Laurens
+Lesslie
+Lexington
+Liberty
+Lincolnville
+Little Mountain
+Little River
+Little Rock
+Lockhart
+Long Creek
+Longs
+Loris
+Lugoff
+Lydia
+Lyman
+Lynchburg
+Macedonia
+Manning
+Marion
+Mauldin
+Mayesville
+Mayo
+McBee
+McClellanville
+McColl
+McConnells
+McCormick
+Meggett
+Millett
+Millwood
+Modoc
+Monarch Mill
+Moncks Corner
+Monetta
+Monticello-Salem
+Mount Carmel
+Mount Pisgah
+Mount Pleasant
+Mountain Rest
+Mulberry
+Mullins
+Murphys Estates
+Murrells Inlet
+Myrtle Beach
+Neeses
+Nesmith
+New Ellenton
+Newberry
+Newport
+Nichols
+Ninety Six
+Norris
+North Augusta
+North Charleston
+North Hartsville
+North Myrtle Beach
+Northlake
+North
+Norway
+Oak Grove
+Oakland
+Oakway
+Olanta
+Olar
+Orangeburg
+Pacolet
+Pageland
+Pamplico
+Parker
+Parris Island
+Patrick
+Pauline
+Pelion
+Pendleton
+Perry
+Pickens
+Piedmont
+Pine Ridge
+Pinewood
+Pinopolis
+Plantersville
+Pleasant Hill-Folly Grove
+Pleasant Lane
+Pontiac
+Port Royal
+Powderville
+Privateer
+Promised Land
+Prosperity
+Quinby
+Ravenel
+Red Bank
+Red Hill
+Reevesville
+Reidville
+Rembert
+Richburg
+Ridge Spring
+Ridgeland
+Ridgeville
+Ridgeway
+Riverview
+Rock Hill
+Roebuck
+Rowesville
+Ruby
+Russellville
+Salley
+Saluda River
+Saluda
+Sampit-Santee
+Sandy Run-Staley
+Sangaree
+Sans Souci
+Santee
+Saratt
+Sardinia
+Sardis
+Saxon
+Scotia
+Scranton
+Seabrook Island
+Sellers
+Seneca
+Seven Oaks
+Sharon
+Shaw-Horatio
+Sheldon
+Shell Point
+Shiloh
+Simpsonville
+Six Mile
+Slater-Marietta
+Slater
+Snelling
+Socastee
+Society Hill
+South Congaree
+South Sumter
+Southern Shops
+Spartanburg
+Springdale
+Springfield
+St. Andrews
+St. Charles
+St. George
+St. Helena
+St. Matthews
+St. Stephen
+Startex
+Stateburg
+Stevens Creek
+Stokes Bridge-Cypress
+Stuckey
+Sullivan's Island
+Summerton
+Summerville
+Summit
+Sumter
+Surfside Beach
+Swansea
+Taylors
+Tega Cay
+Tigerville
+Timmonsville
+Tradesville
+Travelers Rest
+Trio
+Turbeville
+Union
+Utica
+Valley Falls
+Van Wyck
+Varnville
+Waccamaw
+Wade Hampton
+Wadmalaw Island
+Wagener
+Walhalla
+Wallace
+Walterboro
+Wando
+Ware Place
+Ware Shoals
+Warrenville
+Watts Mills
+Wedgefield
+Wedgewood
+Welcome
+Wellford
+West Columbia
+West Pelzer
+West Springs
+West Union
+Westminster
+Westville
+Whitmire
+Wilkinson Heights
+Williamston
+Williston
+Winnsboro Mills
+Winnsboro
+Woodfield
+Woodruff
+Woodville
+Yemassee
+York
