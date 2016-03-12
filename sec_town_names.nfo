@@ -4,10 +4,10 @@
 // Escapes: 71 70 7= 7! 7< 7> 7G 7g 7gG 7GG 7gg 7c 7C
 // Escapes: D= = DR D+ = DF D- = DC Du* = DM D* = DnF Du<< = DnC D<< = DO D& D| Du/ D/ Du% D%
 // Format: spritenum imagefile depth xpos ypos xsize ysize xrel yrel zoom flags
+    0 * 4	 24 00 00 00
 
-0 * 4 \d36 
 
-1 * 107 14 "C" "INFO" 
+    1 * 107	 14 "C" "INFO" 
 "T" "URL_" 7F "https://github.com/GameMaker2k/SouthEast-Towns" 00 
 "B" "VRSN" \w4 \dx00000002 
 "B" "MINV" \w4 \dx00000001 
@@ -16,8 +16,8 @@
 "B" "BLTR" \w1 "8" 
 00 
 00 
-2 * 87 08 08 "JTP\02" "Southeastern Town Names v1.2" 00 "\8ECity names from the southeastern region of the us." 00 
-3 * 2826 0F 00 	// **townname #1**
+    2 * 87	 08 08 "JTP\02" "Southeastern Town Names v1.2" 00 "\8ECity names from the southeastern region of the us." 00 
+    3 * 2826	 0F 00 	// **townname #1**
 01 F7 00 08 01 "Zihlman" 00 
 01 "Yankeetown" 00 
 01 "Woodville" 00 
@@ -267,7 +267,7 @@
 01 "Adel" 00 
 
 
-4 * 2969 0F 01 	// **townname #2**
+    4 * 2969	 0F 01 	// **townname #2**
 01 F7 00 08 01 "Zephyrhills West" 00 
 01 "Yanceyville" 00 
 01 "Woodstock" 00 
@@ -517,7 +517,7 @@
 01 "Addison (Webster Springs)" 00 
 
 
-5 * 2993 0F 02 	// **townname #3**
+    5 * 2993	 0F 02 	// **townname #3**
 01 F7 00 08 01 "Zenith" 00 
 01 "Wytheville" 00 
 01 "Woodruff" 00 
@@ -767,7 +767,7 @@
 01 "Adamstown" 00 
 
 
-6 * 2879 0F 03 	// **townname #4**
+    6 * 2879	 0F 03 	// **townname #4**
 01 F7 00 08 01 "Zephyrhills South" 00 
 01 "Yale" 00 
 01 "Woodson" 00 
@@ -1017,7 +1017,7 @@
 01 "Addison" 00 
 
 
-7 * 2874 0F 04 	// **townname #5**
+    7 * 2874	 0F 04 	// **townname #5**
 01 F7 00 08 01 "Zephyrhills" 00 
 01 "Yadkinville" 00 
 01 "Woodsboro" 00 
@@ -1267,7 +1267,7 @@
 01 "Adamsville" 00 
 
 
-8 * 2890 0F 05 	// **townname #6**
+    8 * 2890	 0F 05 	// **townname #6**
 01 F7 00 08 01 "Zeb" 00 
 01 "Wynnewood" 00 
 01 "Woodloch" 00 
@@ -1517,7 +1517,7 @@
 01 "Adairsville" 00 
 
 
-9 * 2932 0F 06 	// **townname #7**
+    9 * 2932	 0F 06 	// **townname #7**
 01 F7 00 08 01 "Zellwood" 00 
 01 "Wyoming" 00 
 01 "Woodmore" 00 
@@ -1767,7 +1767,7 @@
 01 "Adams" 00 
 
 
-10 * 2936 0F 07 	// **townname #8**
+   10 * 2936	 0F 07 	// **townname #8**
 01 F7 00 08 01 "Yorkshire" 00 
 01 "Wright City" 00 
 01 "Woodfield" 00 
@@ -2017,7 +2017,7 @@
 01 "Acacia Villas" 00 
 
 
-11 * 2836 0F 08 	// **townname #9**
+   11 * 2836	 0F 08 	// **townname #9**
 01 F7 00 08 01 "Zephyrhills North" 00 
 01 "Yalaha" 00 
 01 "Woodside East" 00 
@@ -2267,7 +2267,7 @@
 01 "Addis" 00 
 
 
-12 * 2918 0F 09 	// **townname #10**
+   12 * 2918	 0F 09 	// **townname #10**
 01 F7 00 08 01 "Yukon" 00 
 01 "Wyandotte" 00 
 01 "Woodlawn" 00 
@@ -2517,7 +2517,7 @@
 01 "Ackerly" 00 
 
 
-13 * 2977 0F 0A 	// **townname #11**
+   13 * 2977	 0F 0A 	// **townname #11**
 01 F7 00 08 01 "Youngstown" 00 
 01 "Wrigley" 00 
 01 "Woodland Hills" 00 
@@ -2767,7 +2767,7 @@
 01 "Accoville" 00 
 
 
-14 * 2888 0F 0B 	// **townname #12**
+   14 * 2888	 0F 0B 	// **townname #12**
 01 F7 00 08 01 "Zavalla" 00 
 01 "Wynne" 00 
 01 "Woodlawn-Oakdale" 00 
@@ -3017,7 +3017,7 @@
 01 "Adair" 00 
 
 
-15 * 2885 0F 0C 	// **townname #13**
+   15 * 2885	 0F 0C 	// **townname #13**
 01 F7 00 08 01 "Zapata" 00 
 01 "Wyndham" 00 
 01 "Woodlawn-Dotsonville" 00 
@@ -3267,7 +3267,7 @@
 01 "Ada" 00 
 
 
-16 * 2854 0F 0D 	// **townname #14**
+   16 * 2854	 0F 0D 	// **townname #14**
 01 F7 00 08 01 "Yulee" 00 
 01 "Wyldwood" 00 
 01 "Woodlawn Beach" 00 
@@ -3517,7 +3517,7 @@
 01 "Ackerman" 00 
 
 
-17 * 3008 0F 0E 	// **townname #15**
+   17 * 3008	 0F 0E 	// **townname #15**
 01 F7 00 08 01 "Zebulon" 00 
 01 "Wynona" 00 
 01 "Woodmere" 00 
@@ -3767,7 +3767,7 @@
 01 "Adairville" 00 
 
 
-18 * 2941 0F 0F 	// **townname #16**
+   18 * 2941	 0F 0F 	// **townname #16**
 01 F7 00 08 01 "Yogaville" 00 
 01 "Worton" 00 
 01 "Woodburn" 00 
@@ -4017,7 +4017,7 @@
 01 "Abita Springs" 00 
 
 
-19 * 2895 0F 10 	// **townname #17**
+   19 * 2895	 0F 10 	// **townname #17**
 01 F8 00 08 01 "Zula-Powersburg" 00 
 01 "Yatesville" 00 
 01 "Woodworth" 00 
@@ -4268,7 +4268,7 @@
 01 "Abbottsford" 00 
 
 
-20 * 3029 0F 11 	// **townname #18**
+   20 * 3029	 0F 11 	// **townname #18**
 01 F8 00 08 01 "Zuehl" 00 
 01 "Yarborough Landing" 00 
 01 "Woodway" 00 
@@ -4519,7 +4519,7 @@
 01 "Abbott" 00 
 
 
-21 * 2871 0F 12 	// **townname #19**
+   21 * 2871	 0F 12 	// **townname #19**
 01 F7 00 08 01 "Yonah" 00 
 01 "Wrens" 00 
 01 "Woodbury" 00 
@@ -4769,7 +4769,7 @@
 01 "Abram" 00 
 
 
-22 * 2942 0F 13 	// **townname #20**
+   22 * 2942	 0F 13 	// **townname #20**
 01 F8 00 08 01 "Zwolle" 00 
 01 "Yazoo City" 00 
 01 "Wooster" 00 
@@ -5020,7 +5020,7 @@
 01 "Aberdeen" 00 
 
 
-23 * 2967 0F 14 	// **townname #21**
+   23 * 2967	 0F 14 	// **townname #21**
 01 F7 00 08 01 "York" 00 
 01 "Wright" 00 
 01 "Woodcreek" 00 
@@ -5270,7 +5270,7 @@
 01 "Abram-Perezville" 00 
 
 
-24 * 2992 0F 15 	// **townname #22**
+   24 * 2992	 0F 15 	// **townname #22**
 01 F7 00 08 01 "Young Harris" 00 
 01 "Wrightsville Beach" 00 
 01 "Woodland" 00 
@@ -5520,7 +5520,7 @@
 01 "Accomac" 00 
 
 
-25 * 2962 0F 16 	// **townname #23**
+   25 * 2962	 0F 16 	// **townname #23**
 01 F7 00 08 01 "Yeehaw Junction" 00 
 01 "World Golf Village" 00 
 01 "Womelsdorf (Coalton)" 00 
@@ -5770,7 +5770,7 @@
 01 "Aberdeen Proving Ground" 00 
 
 
-26 * 2865 0F 17 	// **townname #24**
+   26 * 2865	 0F 17 	// **townname #24**
 01 F7 00 08 01 "Yellow River" 00 
 01 "Wortham" 00 
 01 "Woodall" 00 
@@ -6020,7 +6020,7 @@
 01 "Abernant" 00 
 
 
-27 * 2894 0F 18 	// **townname #25**
+   27 * 2894	 0F 18 	// **townname #25**
 01 F7 00 08 01 "Yoakum" 00 
 01 "Worthington Springs" 00 
 01 "Woodbridge" 00 
@@ -6270,7 +6270,7 @@
 01 "Abingdon" 00 
 
 
-28 * 3039 0F 19 	// **townname #26**
+   28 * 3039	 0F 19 	// **townname #26**
 01 F7 00 08 01 "Zachary" 00 
 01 "Wylie" 00 
 01 "Woodlawn Park" 00 
@@ -6520,7 +6520,7 @@
 01 "Acworth" 00 
 
 
-29 * 2862 0F 1A 	// **townname #27**
+   29 * 2862	 0F 1A 	// **townname #27**
 01 F7 00 08 01 "Yellville" 00 
 01 "Worthington" 00 
 01 "Woodbine" 00 
@@ -6770,7 +6770,7 @@
 01 "Abernathy" 00 
 
 
-30 * 2835 0F 1B 	// **townname #28**
+   30 * 2835	 0F 1B 	// **townname #28**
 01 F7 00 08 01 "Youngsville" 00 
 01 "Wurtland" 00 
 01 "Woodland Mills" 00 
@@ -7020,7 +7020,7 @@
 01 "Achille" 00 
 
 
-31 * 2900 0F 1C 	// **townname #29**
+   31 * 2900	 0F 1C 	// **townname #29**
 01 F7 00 08 01 "Yemassee" 00 
 01 "Worthington Hills" 00 
 01 "Woodbranch" 00 
@@ -7270,7 +7270,7 @@
 01 "Abilene" 00 
 
 
-32 * 2953 0F 1D 	// **townname #30**
+   32 * 2953	 0F 1D 	// **townname #30**
 01 F7 00 08 01 "Yorktown" 00 
 01 "Wrightsboro" 00 
 01 "Woodfin" 00 
@@ -7520,7 +7520,7 @@
 01 "Accident" 00 
 
 
-33 * 2883 0F 1E 	// **townname #31**
+   33 * 2883	 0F 1E 	// **townname #31**
 01 F7 00 08 01 "Yorkville" 00 
 01 "Wrightsville" 00 
 01 "Woodlake" 00 
@@ -7770,7 +7770,7 @@
 01 "Accokeek" 00 
 
 
-34 * 2969 0F 1F 	// **townname #32**
+   34 * 2969	 0F 1F 	// **townname #32**
 01 F8 00 08 01 "Zolfo Springs" 00 
 01 "Yantis" 00 
 01 "Woodward" 00 
@@ -8021,7 +8021,7 @@
 01 "Abbeville" 00 
 
 
-35 * 70 0F 20 	// SEC_TOWNS
+   35 * 70	 0F 20 	// SEC_TOWNS
 01 20 08 05 81 00 
 81 01 
 81 02 
@@ -8056,7 +8056,7 @@
 81 1F 
 
 
-36 * 27 0F A1 
+   36 * 27	 0F A1 
 7F "Southeastern USA" 00 
 00 
 01 01 0D 01 81 20 
